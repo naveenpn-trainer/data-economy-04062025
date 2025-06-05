@@ -1,0 +1,4 @@
+product_id,product_name,category,price,stock
+P1,Laptop,Electronics,1000,50
+P2,Phone,Electronics,500,200
+P3,Desk Chair,Furniture,150,100

@@ -1,0 +1,5 @@
+order_id,customer_id,product_id,quantity,order_timestamp,discount_code
+1,101,P1,2,2025-06-01 10:15:00,DISC10
+2,102,P2,1,2025-06-01 11:00:00,NULL
+3,103,P3,3,2025-06-01 12:30:00,DISC5
+4,101,P2,1,2025-06-02 14:00:00,NULL
