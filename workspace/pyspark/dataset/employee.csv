@@ -1,0 +1,12 @@
+id|name|exp|gen|dob|company|desig|doj|col_skills|col_actual_expected_salary|address
+101|'agastya'|-1|M|1987-01-22|Infosys|Developer|21-01-2015|'Hadoop,Hadoop,PySpark,Azure'|'1950000,1600000'|#21, 5th Cross, Indiranagar, Bangalore, 560038
+102|'acyuta'|2|F|1987-03-29|TCS|Team Lead|21-01-2016|'C,C++,Java'|'1150000,1500000'|#18, 2nd Main Road, HSR Layout, Bangalore, 560102
+103|'anuvrata'|1|M|1987-01-22|Infosys|Developer|21-01-2017|'Java,Python,Hadoop'|'1250000,1300000'|#77, MG Road, Shivajinagar, Bangalore, 560001
+|‘bhavika’|6|F|1987-01-22|Infosys|Team Lead|21-01-2015|'Hadoop,PySpark,Kafka'| |#99, 4th Cross, Koramangala, Bangalore, 560034
+105|'chitragandha'||M|1987-01-22|CTS|Developer||'C,C++,Java'|'1200000,1400000'|#56, 1st Cross, Whitefield, Bangalore, 560066
+106|'hritika'|9|F|1987-01-22|Cisco|Developer|21-01-2016|'C,C++,Java'|'950000,1300000'|#44, 7th Main, Rajajinagar, Bangalore, 560010
+107|'jigyasa'|12|M|1987-01-22|Infosys|Team Lead|21-01-2005|'Hadoop,PySpark,Kafka'|'200000,2100000'|#12, 3rd Block, Jayanagar, Bangalore, 560041
+108|'kaveri'|4|F|1987-01-22|cisco|R&D Engineer|21-01-2015|'C,PySpark,Azure,AWS'|'3050000,2500000'|#65, 9th Cross, BTM Layout, Bangalore, 560076
+109||8|M|1987-01-22||Developer|21-01-2008|'C,C++,Java'|'1050000,1100000'|#100, 1st Main, Malleshwaram, Bangalore, 560003
+110|'vin'||T|1987-01-22|CTS|Team Lead|21-01-2020|'Hadoop,PySpark,Kafka,Kafka'|'1550000,1400000'|#5, Residency Road, Richmond Town, Bangalore, 560025
+||||1987-01-22| |Team Lead|21-01-2020|'Hadoop,PySpark,Kafka,Kafka'|'1550000,1400000'|#5, Residency Road, Richmond Town, Bangalore, 560025
